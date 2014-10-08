@@ -1,0 +1,15 @@
+{
+  "name": "ghost-text",
+  "main": "./lib/ghost-text",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "activationEvents": ["ghost-text:toggle"],
+  "repository": "https://github.com/Cacodaimon/GhostText-for-Atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "nodejs-websocket": "1.0.0"
+  }
+}
