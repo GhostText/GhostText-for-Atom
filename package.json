@@ -2,9 +2,9 @@
   "name": "ghost-text",
   "main": "./lib/ghost-text",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).",
   "activationEvents": ["ghost-text:toggle"],
-  "repository": "https://github.com/Cacodaimon/GhostText-for-Atom",
+  "repository": "https://github.com/GhostText/GhostText-for-Atom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
